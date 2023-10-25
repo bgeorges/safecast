@@ -1,0 +1,3 @@
+[submodule "safecast-data-engineering"]
+	path = safecast-data-engineering
+	url = https://github.com/bgeorges/safecast-data-engineering.git
